@@ -1,0 +1,9 @@
+[package]
+name = "rust_macro_module_test"
+version = "0.1.0"
+authors = ["XX <freecoder.xx@gmail.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+lazy_static = "*"
